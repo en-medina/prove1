@@ -57,7 +57,8 @@ TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
         'DIRS': [
-            'C:/Users/Enmanuel Medina/Desktop/Gaselix/DjangoProve/prove1/prove1/templates'
+            'C:/Users/Enmanuel Medina/Desktop/Gaselix/DjangoProve/prove1/prove1/templates',
+            'C:/Users/Enmanuel Medina/Desktop/Gaselix/DjangoProve/prove1/books/templates'
         ],
         'APP_DIRS': True,
         'OPTIONS': {
